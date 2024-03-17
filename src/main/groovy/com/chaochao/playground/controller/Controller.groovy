@@ -9,7 +9,7 @@ class Controller {
 
     @GetMapping
     String get() {
-        "f2fd1asfg"
+        "fHello "
     }
 
 }
